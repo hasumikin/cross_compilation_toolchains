@@ -1,5 +1,5 @@
 #!/bin/bash
-# download.sh
+# vars.sh
 
 set -e
 
