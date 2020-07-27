@@ -52,4 +52,6 @@ build() {
   cd -
 }
 
+sudo apt install -y texinfo
+
 build arm-none-eabi
